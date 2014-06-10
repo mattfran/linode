@@ -7,4 +7,4 @@ group :test do
 end
 
 gem "httparty"
-gem "json"
+gem "json", "1.5.4"
